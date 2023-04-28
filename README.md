@@ -13,6 +13,16 @@ The idea is to empower your ability to create and ideate without the requirement
 - Follow [these instructions](https://developer-docs.magicleap.cloud/docs/guides/unity/getting-started/install-the-tools) to get the ML Hub and Unity Hub installed and set up.
 - With the Unity Hub, **the correct version is `2022.2.17f1`**. Double-check that you are installing the correct version.
 
+### Downloading as a ZIP/tarball on MacOS
+
+If you are downloading this project on MacOS as a ZIP (not by cloning), you will get issues regarding not being able to trust the developer. To get past this, in a terminal, run:
+
+```shell
+sudo spctl --master-disable
+```
+
+This will allow you to choose an option in your Security settings that will allow the project to be opened.
+
 ## Running the Project
 
 When the project is loaded, a window for the Project Setup Tool will automatically pop up. This window will, if it is your first time using Unity, open a file explorer — you should select the relevant SDK directory (in this case, `v1.6.0`). After that is selected, click **apply**/**okay**. The Magic Leap Project Setup Tool will still be open. Make sure to click "Apply all" and it will fix your local copy of the project up.
