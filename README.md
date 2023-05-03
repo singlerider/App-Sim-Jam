@@ -39,3 +39,4 @@ Now that everything is working, it's time to follow [our documentation](https://
 
 If, for whatever reason you experience issues running the Application Simulator(s), you should follow [these instructions](https://developer-docs.magicleap.cloud/docs/guides/developer-tools/ml-hub/error-reporting) to get logs.
 
+Once you have the logs, please make a Topic post in [The Magic Leap 2 Developer Forums in the "App Simulator" Category](https://forum.magicleap.cloud/c/app-simulator/142). A .zip can be added to your post.
