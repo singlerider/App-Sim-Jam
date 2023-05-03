@@ -25,7 +25,7 @@ This will allow you to choose an option in your Security settings that will allo
 
 ## Running the Project
 
-When the project is loaded, a window for the Project Setup Tool will automatically pop up. This window will, if it is your first time using Unity, open a file explorer — you should select the relevant SDK directory (in this case, `v1.6.0`). After that is selected, click **apply**/**okay**. The Magic Leap Project Setup Tool will still be open. Make sure to click "Apply all" and it will fix your local copy of the project up.
+When the project is loaded, a window for the Project Setup Tool will automatically pop up. This window will, if it is your first time using Unity, open a file explorer — you should select the relevant SDK directory (in this case, `v1.2.0`). After that is selected, click **apply**/**okay**. The Magic Leap Project Setup Tool will still be open. Make sure to click "Apply all" and it will fix your local copy of the project up.
 
 ### Getting the App Sim for Unity Running
 
